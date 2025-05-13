@@ -1,1 +1,3 @@
-experiments/benchmarks/data_2k_lw.json
+experiments/benchmarks
+experiments/results
+src/__pycache__
